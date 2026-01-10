@@ -39,7 +39,7 @@
 ## 📫 Let's Connect
 
 - 💼 GitHub: [FatimaHamidDev](https://github.com/FatimaHamidDev)  
-- 🌐 LinkedIn: [Fatima Hamid](https://www.linkedin.com/in/your-linkedin/)  
+- 🌐 LinkedIn: [Fatima Hamid](https://www.linkedin.com/in/fatimahamid-developer/)  
 
 ---
 
