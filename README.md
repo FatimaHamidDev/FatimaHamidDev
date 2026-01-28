@@ -24,15 +24,40 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 📌 Featured Projects
+## 🧩 Online Form Builder
 
-### 🧩 Online Form Builder
-- Built with **Vanilla JavaScript**  
-- Dynamic form creation and live preview  
-- Export forms as JSON  
-- Clean state management and responsive UI  
+Built with JavaScript, HTML, CSS
 
-*More projects coming soon…*
+Dynamic form field creation
+
+Export forms as JSON
+
+Focus on DOM manipulation and clean logic
+
+## 🛒 React E-commerce App
+
+Built with React
+
+React Router for multi-page navigation
+
+Product listing UI
+
+Add-to-cart functionality
+
+Component-based structure and reusable UI
+
+## 🔐 Password Generator
+
+Built with React
+
+Random password generation
+
+User-controlled options
+
+Simple, clean UI with state handling
+
+More projects coming soon…
 
 ---
 
