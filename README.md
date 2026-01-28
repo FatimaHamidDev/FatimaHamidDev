@@ -25,7 +25,7 @@
 ---
 
 ## 📌 📌 Featured Projects
-## 🧩 Online Form Builder
+# 🧩 Online Form Builder
 
 Built with JavaScript, HTML, CSS
 
@@ -35,7 +35,7 @@ Export forms as JSON
 
 Focus on DOM manipulation and clean logic
 
-## 🛒 React E-commerce App
+# 🛒 React E-commerce App
 
 Built with React
 
@@ -47,7 +47,7 @@ Add-to-cart functionality
 
 Component-based structure and reusable UI
 
-## 🔐 Password Generator
+# 🔐 Password Generator
 
 Built with React
 
