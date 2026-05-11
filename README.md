@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Fatima Hamid
 
-💻 MERN Stack Developer | Crafting scalable, user-friendly web applications  
+💻 MERN Stack Developer from Pakistan specializing in React.js, Node.js, Express.js, MongoDB, and full-stack web applications.  
 🌍 Worked with 180+ clients worldwide  
 🎯 Passionate about clean UI, maintainable code, and modern web technologies
 
@@ -31,7 +31,8 @@
 - Export forms as JSON
 - Focus on DOM manipulation and clean logic
 
-### 🛒 React E-commerce App
+### 🛒 Full Stack MERN Ecommerce Website 
+- using React.js, Node.js, Express, and MongoDB
 - React Router–based multi-page flow
 - Product listing and cart functionality
 - Component-based structure and reusable UI
