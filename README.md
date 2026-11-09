@@ -1,4 +1,4 @@
-👋 Hi, I'm Fatima Hamid
+### 👋 Hi, I'm Fatima Hamid
 
 **Full-Stack & AI Developer from Pakistan**
 
@@ -8,7 +8,7 @@ I build custom web applications, AI assistants, and automation solutions, with a
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 **Web Development:** React, Next.js, TypeScript, JavaScript, Node.js, Express.js, HTML, CSS, Tailwind CSS, REST APIs  
 **AI Applications:** Gemini, LLM integration, RAG, embeddings, vector search, LangChain, LangGraph, CrewAI, Supabase/pgvector  
@@ -17,7 +17,7 @@ I build custom web applications, AI assistants, and automation solutions, with a
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
 ### In-House Email Marketing & Automation Platform
 An internal Mini-Mailchimp-style platform built for Khushi Motors to manage subscribers, email templates, campaigns, automated sequences, scheduling, sending, tracking, and analytics.
