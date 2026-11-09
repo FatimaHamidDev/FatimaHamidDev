@@ -1,52 +1,44 @@
-# 👋 Hi there, I'm Fatima Hamid
+👋 Hi, I'm Fatima Hamid
 
-💻 MERN Stack Developer from Pakistan specializing in React.js, Node.js, Express.js, MongoDB, and full-stack web applications.  
-🌍 Worked with 180+ clients worldwide  
-🎯 Passionate about clean UI, maintainable code, and modern web technologies
+**Full-Stack & AI Developer from Pakistan**
 
----
+I build custom web applications, AI assistants, and automation solutions, with a focus on clean interfaces and practical, maintainable software.
 
-## 🚀 About Me
-
-- Completed **MERN Stack** training  
-- Experienced with **React**, **Node.js**, **MongoDB**, and **Express.js**  
-- Strong foundation in **JavaScript**, **HTML5**, **CSS3**  
-- Focused on building real-world projects and learning continuously  
+🌍 Worked with 180+ clients worldwide
 
 ---
 
-## 🛠️ Tech Stack
+## Skills
 
-**Frontend:** React, JavaScript, HTML, CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, REST APIs  
+**Web Development:** React, Next.js, TypeScript, JavaScript, Node.js, Express.js, HTML, CSS, Tailwind CSS, REST APIs  
+**AI Applications:** Gemini, LLM integration, RAG, embeddings, vector search, LangChain, LangGraph, CrewAI, Supabase/pgvector  
+**Machine Learning & Computer Vision:** Python, PyTorch, scikit-learn, NumPy, Pandas, Matplotlib, CNNs  
+**Databases & Tools:** MySQL, MongoDB, Git, GitHub
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🧩 Online Form Builder
-- Dynamic form field creation
-- Export forms as JSON
-- Focus on DOM manipulation and clean logic
+### In-House Email Marketing & Automation Platform
+An internal Mini-Mailchimp-style platform built for Khushi Motors to manage subscribers, email templates, campaigns, automated sequences, scheduling, sending, tracking, and analytics.
 
-### 🛒 Full Stack MERN Ecommerce Website 
-- using React.js, Node.js, Express, and MongoDB
-- React Router–based multi-page flow
-- Product listing and cart functionality
-- Component-based structure and reusable UI
-- Focus on real-world UX and data flow
+### Khushi Motors AI Sales Assistant
+A RAG-based assistant for company knowledge and vehicle searches. It uses semantic retrieval for company information and structured inventory searches through the live inventory API.
 
-### 🔐 Password Generator
-- Built with React
-- Random password generation
-- User-controlled options
-- Copy-to-clipboard functionality
-- Simple UI with state handling
+**Technologies:** Next.js, React, TypeScript, Node.js, Gemini, Gemini Embeddings, Supabase/pgvector, MySQL
 
-*More projects coming soon…*
+### Helmet Detection System
+An image-classification project that compares a Random Forest baseline with a CNN to classify images as helmet or no helmet.
 
+**Technologies:** Python, NumPy, scikit-learn, PyTorch, Pandas, Matplotlib
+
+### Vehicle Damage Detection
+A computer-vision project that classifies vehicle images by damage type. The experiments include CNNs and transfer-learning approaches.
+
+**Technologies:** Python, PyTorch, EfficientNet, ResNet50, Optuna
+
+### [Online Form Builder](https://github.com/FatimaHamidDev/Online-Form-Builder)
+A Vanilla JavaScript app for creating and editing forms, previewing them, and exporting form configurations as JSON.
 
 ---
 
