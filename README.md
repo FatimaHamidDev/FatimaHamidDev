@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fatima Hamid
 
-💻 **Full-Stack & AI Developer from Pakistan**  
+💻 **Full-Stack & AI Developer**  
 I build custom web applications, AI assistants, and automation solutions, with a focus on clean interfaces and practical, maintainable software.  
 🌍 Worked with 180+ clients worldwide
 
@@ -34,7 +34,9 @@ A platform for managing subscribers, email templates, campaigns, automated seque
 
 A RAG-based assistant for company knowledge and vehicle searches. It uses semantic retrieval for company information and structured searches through the live inventory API.
 
-**Technologies:** Next.js, React, TypeScript, Node.js, Gemini, Gemini Embeddings, Supabase/pgvector, MySQL### 🪖 Helmet Detection System
+**Technologies:** Next.js, React, TypeScript, Node.js, Gemini, Gemini Embeddings, Supabase/pgvector, MySQL
+
+### 🪖 Helmet Detection System
 
 An image-classification project that compares a Random Forest baseline with a PyTorch CNN to classify images as **Helmet** or **No Helmet**.
 
