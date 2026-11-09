@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Fatima Hamid
 
-💻 **Full-Stack & AI Developer**  
+💻 **Full-Stack & AI Developer** 
+
 I build custom web applications, AI assistants, and automation solutions, with a focus on clean interfaces and practical, maintainable software.  
 🌍 Worked with 180+ clients worldwide
 
@@ -48,7 +49,7 @@ A computer-vision project that classifies vehicle images by damage type. The exp
 
 **Technologies:** Python, PyTorch, EfficientNet, ResNet50, Optuna
 
-### 🧩 [Online Form Builder](https://github.com/FatimaHamidDev/Online-Form-Builder)
+### 🧩 Online Form Builder
 
 A Vanilla JavaScript app for creating and editing forms, previewing them, and exporting form configurations as JSON.
 
